@@ -274,6 +274,101 @@ font-weight: 400;
     font-weight: 800; 
 }
 
+/* why choose style */
+
+.why-title{
+    text-align: center;
+}
+.bangla{
+    color: #131318;
+text-align: center;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+}
+.kash{
+    color: rgba(19, 19, 24, 0.70);
+text-align: center;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+}
+.card{
+    display: flex;
+    margin-left: 50px;
+    margin-top: 80px;
+    gap: 20px;
+}
+.card-title{
+    width: 573px;
+height: 284px;
+flex-shrink: 0;
+border-radius: 16px;
+border: 1px solid rgba(251, 181, 99, 0.20);
+background: rgba(251, 181, 99, 0.05);
+padding: 20px;
+
+}
+.hotel{
+    color: #131318;
+font-size: 24px;
+font-style: normal;
+font-weight: 800;
+
+}
+.amet{
+    width: 486px;
+    color: #5A5A5D;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+}
+.card-word{
+    width: 573px;
+height: 284px;
+border-radius: 16px;
+border: 1px solid rgba(41, 206, 246, 0.20);
+background: rgba(41, 206, 246, 0.05);
+padding: 20px;
+}
+.world{
+    color: #131318;
+font-size: 24px;
+font-style: normal;
+font-weight: 800;
+}
+.service{
+    width: 486px;
+    color: #5A5A5D;
+font-size: 16px;
+font-weight: 400;
+}
+.card-price{
+   
+    width: 573px;
+height: 284px;
+border-radius: 16px;
+border: 1px solid rgba(233, 68, 68, 0.20);
+background: rgba(233, 68, 68, 0.05);
+margin-top: 40px;
+margin-left: 400px;
+padding: 20px;
+}
+.tag{
+    color: #131318;
+font-size: 24px;
+font-style: normal;
+font-weight: 800;
+}
+.best{
+    width: 486px;
+    color: #5A5A5D;
+font-size: 16px;
+font-weight: 400;
+}
+
+
+
 
 /* responsive media queries */
 /* mobile devices */
