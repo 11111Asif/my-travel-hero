@@ -158,6 +158,58 @@ height: 550px;
 border-radius: 16px;
 background: url(<path-to-image>), lightgray 50% / cover no-repeat;
 }
+/* travel section style */
+.worth-container{
+    margin-top: 80px;
+}
+
+.worth{
+   margin-left: 110px; 
+   margin-right: 110px;
+}
+.talking{
+    color:  #000D1B;
+text-align: center;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+}
+.take{
+    color:#26A59E;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+}
+.our{
+    color: #667280;
+text-align: center;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+}
+.image{
+    margin-top: 40px;
+    margin-left: 50px;
+    gap: 30px;
+}
+.image img{
+    width: 550px;
+}
+.disco{
+padding: 25px 82px;
+gap: 10px;
+background:#FF5400 ;
+justify-content: center;
+margin-left: 500px;
+margin-top: 50px;
+border: 0;
+font-size: 1rem;
+}
+
+
+
+
+
 /* Choose Your Destination style */
 
 .destination{
@@ -515,8 +567,8 @@ margin-top: 50px;
         text-align: left;
         width: 100%;
     
-    
     }
+    
     .your{
         width: 100%;
         padding: 0;
