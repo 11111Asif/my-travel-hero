@@ -366,7 +366,82 @@ font-weight: 800;
 font-size: 16px;
 font-weight: 400;
 }
+/* newsletter style */
+.news-container{
+    display: flex;
+    margin-top: 100px;
+    margin-left: 40px;
+}
+.letter{
+    width: 474px;
+height: 345px;
+border-radius: 16px;
+border: 1px solid #FF5400;
+padding: 40px;
+}
+.news-title{
+    color: #131318;
+font-size: 24px;
+font-weight: 800;
+}
+.letter-title{
+    width: 350px;
+    color: #5A5A5D;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+}
+.name{
+    display: block;
+    width: 393px;
+height: 52px;
+border-radius: 8px;
+background: rgba(19, 19, 24, 0.05);
+margin-top: 20px;
+border: 0;
 
+}
+.email{
+    display: block;
+    width: 393px;
+height: 52px;
+border-radius: 8px;
+background: rgba(19, 19, 24, 0.05);
+margin-top: 20px ;
+border: 0;
+
+}
+.Subscribe{
+    width: 393px;
+height: 52px;
+border-radius: 8px;
+background: #FF5400;
+margin-top: 20px;
+border: 0;
+}
+.save{
+    margin-left: 20px;
+    position: relative;
+}
+
+
+.com{
+    position: relative;
+    /* width: 340px; */
+    padding: 40px;
+    text-align: center;
+    bottom: 235px;
+    left: 320px;
+    color: #FFF;
+    font-size: 28px;
+    font-weight: 800; 
+    width: 250px;
+height: 60px;
+transform: rotate(-19.628deg);
+border-radius: 16px;
+background: #FF5400;
+
+}
 
 
 
