@@ -205,14 +205,14 @@ font-weight: 400;
     gap: 30px;
 }
 .image img{
-    width: 550px;
+    width: 700px;
 }
 .disco{
 padding: 25px 82px;
 gap: 10px;
 background:#FF5400 ;
 justify-content: center;
-margin-left: 500px;
+margin-left: 620px;
 margin-top: 50px;
 border: 0;
 font-size: 1rem;
