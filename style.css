@@ -1,14 +1,16 @@
 
 body{
     background-color: #fff;
+    
 }
 .header{
     background-color: #fff;
     padding: 20px 50px;
+    
 }
 .header-section{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
    align-items: center;
    list-style: none;
   
@@ -17,6 +19,8 @@ body{
 .nav-container{
    display: flex;
    align-items: center;
+   
+   
 }
 .nav-container p{
     color: #131318;
@@ -31,12 +35,12 @@ font-weight: 800;
 margin-left: 10px;
 }
 .item-container{
-    padding: 20px 50px;
+    padding: 20px;
     
-
 }
 .item-container a{
  text-decoration: none;
+ 
 }
 .home{
     color: #FF5400;
@@ -53,6 +57,7 @@ text-align: center;
 font-size: 18px;
 font-weight: 400;
 
+
 }
 /* explore section */
 .section-title{
@@ -61,7 +66,7 @@ font-weight: 400;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    width: 1170px;
+    width: 1400px;
 height: 500px;
 margin-left: 50px;
 text-align: center;
@@ -71,7 +76,7 @@ position: relative;
 .explore{
    position: absolute;
    margin-top: 60px;
-   margin-left: 210px;
+   margin-left: 310px;
    margin-right: 70px;
    align-items: center;
 }
